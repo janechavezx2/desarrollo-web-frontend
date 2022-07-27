@@ -31,24 +31,24 @@
   - Atributos globales: id, class
 - Contenido
   -  Texto
-    -  Títulos (h1, h2, ... h6), párrafo (p)
-    -  Texto predefinido (pre) y span
-    -  Saltos de línea: br y wbr
-    -  Énfasis: em, strong, i, u, b
-    -  Especifidad: mark, small, cite, address
-    -  Elemento code y su relación con pre
+    - Títulos (h1, h2, ... h6), párrafo (p)
+    - Texto predefinido (pre) y span
+    - Saltos de línea: br y wbr
+    - Énfasis: em, strong, i, u, b
+    - Especifidad: mark, small, cite, address
+    - Elemento code y su relación con pre
   -  Enlaces (href) y propiedades href y target
   -  Imágenes
-    -  img, picture, figure, figcaption
-    -  Propiedades img: width, height, alt, srcset, sizes, corssorigin
+    - img, picture, figure, figcaption
+    - Propiedades img: width, height, alt, srcset, sizes, corssorigin
   -  Listados
-    -  Listas ordenados (ol) y sus elementos (li)
-    -  Listas no ordenados (ul) y sus elementos (li)
-    -  Lista de descripciones (dl), sus términos (dt) y descripciones (dd)
-    -  Elementos alternos: blockquote, details y summary
+    - Listas ordenados (ol) y sus elementos (li)
+    - Listas no ordenados (ul) y sus elementos (li)
+    - Lista de descripciones (dl), sus términos (dt) y descripciones (dd)
+    - Elementos alternos: blockquote, details y summary
   -  Tablas
-    -  Elemento table y subelementos: fila (tr), dato (td) y cabecera (th)
-    -  Atributos globales: span y translate
+    - Elemento table y subelementos: fila (tr), dato (td) y cabecera (th)
+    - Atributos globales: span y translate
 
 ## Semana 03: HTML (Parte 2)
 
