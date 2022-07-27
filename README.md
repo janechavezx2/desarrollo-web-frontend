@@ -2,8 +2,8 @@
 
 ## Semana 01
 - Sitios Web
--- Archivos
--- Dominios y URL
+  - Archivos
+  - Dominios y URL
 -- Hipervínculos
 -- URL absolutas y relativas
 - Lenguajes
