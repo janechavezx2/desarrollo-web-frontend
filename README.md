@@ -46,13 +46,13 @@
     - Listas no ordenados (ul) y sus elementos (li)
     - Lista de descripciones (dl), sus términos (dt) y descripciones (dd)
     - Elementos alternos: blockquote, details y summary
-  - Tablas
-    - Elemento table y subelementos: fila (tr), dato (td) y cabecera (th)
-    - Atributos globales: span y translate
 
 ## Semana 03: HTML (Parte 2)
 
 - Contenido
+  - Tablas
+    - Elemento table y subelementos: fila (tr), dato (td) y cabecera (th)
+    - Atributos globales: span y translate
   - Formularios
     - Elemento form y propiedades: name, method, action, target y enctype
     - Elementos: input, textarea, select, button, output, meter, progress, datalist y option, label, fieldset y legend
