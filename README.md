@@ -1,8 +1,7 @@
 # Desarrollo Web Front-end
 
-## Semana 01
+## Semana 00: Desarrollo Web
 
-### Capítulo 1: Desarrollo web
 - Sitios Web
   - Archivos
   - Dominios y URL
