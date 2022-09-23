@@ -1,9 +1,9 @@
 # Desarrollo Web Front-end
 
-| Sesiones | Fecha      | Contenido | Estado               |
-|----------|------------|-----------|----------------------|
-| 1        | 24/09/2022 | ---       | :white_check_mark:   |
-| 2        | 24/09/2022 | ---       | :white_large_square: |
+| Sesión   | Fecha       | Contenido | Estado               |
+|----------|-------------|-----------|----------------------|
+| 1        | 24/09/2022  | -         | :white_check_mark:   |
+| 2        | 24/09/2022  | -         | :white_large_square: |
 
 ## Semana 00: Desarrollo Web
 
