@@ -1,8 +1,8 @@
 # Desarrollo Web Front-end
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | :heavy_check_mark:
+Sesiones | Fecha | Contenido | Estado
+1 | 24/09/2022 | --- | :white_check_mark
+1 | 24/09/2022 | --- | :white_large_square
 
 ## Semana 00: Desarrollo Web
 
